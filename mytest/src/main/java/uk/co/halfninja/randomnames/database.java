@@ -22,4 +22,6 @@ public class database {
     public static void inputmathscore(String name, int score) { 
         mathscore.put(name, score);
     }
+    //
+    // =======================================================
 }
